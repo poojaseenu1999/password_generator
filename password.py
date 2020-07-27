@@ -3,7 +3,7 @@ import random,string
 
 root=Tk()
 #root.geometry("400X280")
-root.title("password generator")
+root.title("password_generator")
 
 title=StringVar()
 label=Label(root,textvariable=title).pack()
